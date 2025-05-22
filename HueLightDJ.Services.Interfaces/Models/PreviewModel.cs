@@ -16,3 +16,4 @@ namespace HueLightDJ.Services.Interfaces.Models
     public string? Name { get; set; }
   }
 }
+// Commit Kommentar
